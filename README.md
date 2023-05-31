@@ -4,7 +4,7 @@ This weeks challenge required me to create a command-line application that dynam
 The purpose of this challenge was to use node.js to generate a README.md file. Using node to run the index.js will cause a series of questions to prompt up. These questions are created using the inquirer npm, once all the questions are answered it will generate the new file.
 ### Installations
 Download or clone the reposisotry.
-#### Usage
+### Usage
 Initialize the application using Visual Studio Code.
 
 Open the terminal on the main folder.
