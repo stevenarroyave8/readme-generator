@@ -87,7 +87,6 @@ const questions = [
 
 ];
 
-
 // TODO: Create a function to write README file
 // using the fs to create a new file generated-README in the newREADME folder
 const writeFile = fileContent => {
@@ -131,4 +130,4 @@ init()
 })
 
 // // Function call to initialize app
-// init();
+ init();
