@@ -17,15 +17,15 @@
 
   ## Description
 
-  this will generate a readme file for me
+  this will help me generate a new readme file 
 
   ## Installation
 
-  follow instructions in the repo
+  clone repo and follow instructions on steps
 
   ## Usage
 
-  follow examples on repo 
+  refer to repo for examples
   
 
   
@@ -42,11 +42,11 @@
 
   ## Tests
 
-  no examples included 
+  none included
 
   ## Questions
   For any questions contact me using the following links:
 
   [GitHub](https://github.com/stevenarroyave8)
   
-  [Email: stevenarroyave8](mailto:stevenarroyave8)
+  [Email: stevenarroyave@gmail.com](mailto:stevenarroyave@gmail.com)
