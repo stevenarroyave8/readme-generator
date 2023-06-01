@@ -1,6 +1,6 @@
 
   
-  # README generator
+  # README-Generator
 
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
@@ -17,15 +17,15 @@
 
   ## Description
 
-  this will help me generate a new readme file 
+  this app will generate a readme file with node
 
   ## Installation
 
-  clone repo and follow instructions on steps
+  clone the repository 
 
   ## Usage
 
-  refer to repo for examples
+  you can use the app by opening the CLI and usinf node to prompt the questions
   
 
   
@@ -42,7 +42,7 @@
 
   ## Tests
 
-  none included
+  none provided for walk through purposes
 
   ## Questions
   For any questions contact me using the following links:
