@@ -21,6 +21,8 @@ Initialize the application with node.js by running the index.js file.
 Questions will then prompt one by one after you enter your response.
 
 Once all questions are answered a new readme will be generated in the file created.
+#### Walkthrough Link
+https://user-images.githubusercontent.com/128537787/242749527-210ad7f1-5b4f-4141-86b6-984e096c58dd.mp4
 
 
 https://github.com/stevenarroyave8/readme-generator/assets/128537787/210ad7f1-5b4f-4141-86b6-984e096c58dd
