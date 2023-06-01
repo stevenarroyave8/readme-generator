@@ -1,3 +1,6 @@
+
+
+
 # Readme-Generator
 This weeks challenge required me to create a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package.
 ## About
@@ -18,3 +21,6 @@ Initialize the application with node.js by running the index.js file.
 Questions will then prompt one by one after you enter your response.
 
 Once all questions are answered a new readme will be generated in the file created.
+
+
+https://github.com/stevenarroyave8/readme-generator/assets/128537787/210ad7f1-5b4f-4141-86b6-984e096c58dd
